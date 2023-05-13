@@ -2005,22 +2005,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./FIFA 23 Legacy Edition.xci</path>
-		<name>FIFA 23 Legacy Edition</name>
-		<desc>The latest installment of the popular FIFA soccer franchise, featuring updated rosters and kits from the 2022-2023 season, as well as new gameplay features and modes.</desc>
-		<emulator>ryujinx</emulator>
-		<image>./mixart/FIFA 23 Legacy Edition.jpg</image>
-		<video>./snap/FIFA 23 Legacy Edition.mp4</video>
-		<marquee>./wheel/FIFA 23 Legacy Edition.png</marquee>
-		<rating>Everyone</rating>
-		<releasedate>20220929T120000</releasedate>
-		<developer>EA Sports</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports</genre>
-		<players>1-4</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Fight N Rage.nsp</path>
 		<name>Fight N Rage</name>
 		<desc>A retro-inspired beat 'em up game featuring three unique characters who must fight their way through a post-apocalyptic world filled with dangerous enemies and challenging bosses.</desc>
@@ -2081,22 +2065,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./FRAMED COLLECTION.nsp</path>
-		<name>FRAMED COLLECTION</name>
-		<desc>A unique puzzle game where players rearrange comic book panels to change the outcome of a noir-inspired story, featuring a collection of the award-winning titles FRAMED and FRAMED 2.</desc>
-		<emulator>ryujinx</emulator>
-		<image>./mixart/FRAMED COLLECTION.jpg</image>
-		<video>./snap/FRAMED COLLECTION.mp4</video>
-		<marquee>./wheel/FRAMED COLLECTION.png</marquee>
-		<rating>Everyone</rating>
-		<releasedate>20180517T120000</releasedate>
-		<developer>Loveshack Entertainment</developer>
-		<publisher>Surprise Attack Games</publisher>
-		<genre>Puzzle</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./FruitFall Crush.nsp</path>
 		<name>FruitFall Crush</name>
 		<desc>A colorful and addictive puzzle game where players must match three or more fruits of the same type to clear the board and progress through levels, with over 100 challenging stages and multiple game modes.</desc>
@@ -2133,21 +2101,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<image>./mixart/Game Boy Advance Nintendo Switch Online.jpg</image>
 		<video>./snap/Game Boy Advance Nintendo Switch Online.mp4</video>
 		<marquee>./wheel/Game Boy Advance Nintendo Switch Online.png</marquee>
-		<rating>Everyone</rating>
-		<releasedate>20230201T120000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Compilation</genre>
-		<players>1-4</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Game Boy Nintendo Switch Online.nsp</path>
-		<name>Game Boy Nintendo Switch Online</name>
-		<desc>A collection of classic Game Boy titles available to play through Nintendo Switch Online service, featuring iconic games like Super Mario Land, Kirby's Dream Land, and The Legend of Zelda: Link's Awakening, with online play and save data backup.</desc>
-		<image>./mixart/Game Boy Nintendo Switch Online.jpg</image>
-		<video>./snap/Game Boy Nintendo Switch Online.mp4</video>
-		<marquee>./wheel/Game Boy Nintendo Switch Online.png</marquee>
 		<rating>Everyone</rating>
 		<releasedate>20230201T120000</releasedate>
 		<developer>Nintendo</developer>
@@ -2848,21 +2801,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Johnny_Turbos_Arcade_Wizard_Fire.nsp</path>
-		<name>Johnny Turbo's Arcade: Wizard Fire</name>
-		<desc>A fantasy-themed top-down shooter where players control a wizard to defeat enemies and bosses</desc>
-		<image>./mixart/Johnny_Turbos_Arcade_Wizard_Fire.jpg</image>
-		<video>./snap/Johnny_Turbos_Arcade_Wizard_Fire.mp4</video>
-		<marquee>./wheel/Johnny_Turbos_Arcade_Wizard_Fire.png</marquee>
-		<rating>Teen</rating>
-		<releasedate>20220101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Flying Tiger Entertainment</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./KATANA KAMI A Way of the Samurai Story.nsp</path>
 		<name>KATANA KAMI: A Way of the Samurai Story</name>
 		<desc>KATANA KAMI: A Way of the Samurai Story is an action RPG where you must survive in a land of swords and spirits.</desc>
@@ -3043,36 +2981,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Marble It Up!.nsp</path>
-		<name>Marble It Up!</name>
-		<desc>Marble It Up! is a physics-based platformer game where players control a marble through over 40 levels, avoiding hazards and collecting gems.</desc>
-		<image>./mixart/Marble It Up!.jpg</image>
-		<video>./snap/Marble It Up!.mp4</video>
-		<marquee>./wheel/Marble It Up!.png</marquee>
-		<rating>Everyone</rating>
-		<releasedate>20180929T000000</releasedate>
-		<developer>Marble It Up, LLC</developer>
-		<publisher>The Marble Collective</publisher>
-		<genre>Platformer</genre>
-		<players>1-4</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Mario + Rabbids Sparks of Hope.xci</path>
-		<name>Mario + Rabbids Sparks of Hope</name>
-		<desc>Mario + Rabbids Sparks of Hope is a turn-based tactical role-playing video game developed by Ubisoft and published by Nintendo. It is the sequel to the 2017 game Mario + Rabbids Kingdom Battle and features a crossover between Nintendo's Mario franchise and Ubisoft's Raving Rabbids franchise.</desc>
-		<image>./mixart/Mario + Rabbids Sparks of Hope.jpg</image>
-		<video>./snap/Mario + Rabbids Sparks of Hope.mp4</video>
-		<marquee>./wheel/Mario + Rabbids Sparks of Hope.png</marquee>
-		<rating>Everyone</rating>
-		<releasedate>2022</releasedate>
-		<developer>Ubisoft</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Tactical Role-Playing</genre>
-		<players>1-2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Marooners.nsp</path>
 		<name>Marooners</name>
 		<desc>Marooners is a multiplayer party game developed and published by M2H. It features a collection of mini-games that are designed for local multiplayer gameplay, allowing up to six players to compete against each other. The game offers a variety of different game modes and challenges, as well as a cast of colorful and quirky characters to choose from.</desc>
@@ -3145,22 +3053,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<publisher>Ravenous Games</publisher>
 		<genre>Action, Platformer</genre>
 		<players>1-2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Mighty Goose.nsp</path>
-		<name>Mighty Goose</name>
-		<desc>An action-packed run-and-gun game where you play as a bounty hunter trying to take down space pirates.</desc>
-		<emulator>ryujinx</emulator>
-		<image>./mixart/Mighty Goose.jpg</image>
-		<video>./snap/Mighty Goose.mp4</video>
-		<marquee>./wheel/Mighty Goose.png</marquee>
-		<rating>E</rating>
-		<releasedate>20210605T120000</releasedate>
-		<developer>Blastmode</developer>
-		<publisher>PLAYISM</publisher>
-		<genre>Action, Run-and-Gun</genre>
-		<players>1-4</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -3601,21 +3493,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Pinball Jam.nsp</path>
-		<name>Pinball Jam</name>
-		<desc>Experience the excitement of classic pinball games with a variety of unique tables and challenges in this arcade-style game.</desc>
-		<image>./mixart/Pinball Jam.jpg</image>
-		<video>./snap/Pinball Jam.mp4</video>
-		<marquee>./wheel/Pinball Jam.png</marquee>
-		<rating>E</rating>
-		<releasedate>20220210T12:00:00</releasedate>
-		<developer>Casual Bit Games</developer>
-		<publisher>Flying Tiger Entertainment</publisher>
-		<genre>Arcade</genre>
-		<players>1-4</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Pixel Game Maker Series BombMachine.nsp</path>
 		<name>Pixel Game Maker Series: BombMachine</name>
 		<desc>Use bombs to defeat enemies and navigate through treacherous levels in this explosive action game.</desc>
@@ -3945,21 +3822,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<publisher>Universal Studios</publisher>
 		<genre>Action, Shooter, Sci-Fi</genre>
 		<players>1-4</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Raging Justice.nsp</path>
-		<name>Raging Justice</name>
-		<desc>Raging Justice is a side-scrolling beat 'em up video game developed and published by MakinGames. The game follows police officers Rick Justice and Nikki Rage as they fight their way through a crime-infested city to rescue the mayor from a ruthless gang. Featuring hand-drawn graphics and intense action, Raging Justice is a nostalgic throwback to classic arcade beat 'em ups.</desc>
-		<image>./mixart/Raging Justice.jpg</image>
-		<video>./snap/Raging Justice.mp4</video>
-		<marquee>./wheel/Raging Justice.png</marquee>
-		<rating>Teen</rating>
-		<releasedate>20180508T000000</releasedate>
-		<developer>MakinGames</developer>
-		<publisher>Team17</publisher>
-		<genre>Action, Fighting</genre>
-		<players>1-2</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -4446,22 +4308,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Steel Assault.nsp</path>
-		<name>Steel Assault</name>
-		<desc>Steel Assault is a 2D action-platformer set in a post-apocalyptic America. Play as Taro Takahashi, a resistance soldier on a mission to take down the evil dictator who rules with an iron fist.</desc>
-		<emulator>ryujinx</emulator>
-		<image>./mixart/Steel Assault.jpg</image>
-		<video>./snap/Steel Assault.mp4</video>
-		<marquee>./wheel/Steel Assault.png</marquee>
-		<rating>T</rating>
-		<releasedate>20210928T000000</releasedate>
-		<developer>Stingbot Games</developer>
-		<publisher>Shinyuden</publisher>
-		<genre>Action, Platformer</genre>
-		<players>1-2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Street Fighter 30th Anniversary.xci</path>
 		<name>Street Fighter 30th Anniversary</name>
 		<desc>Relive the arcade classics that started it all with Street Fighter 30th Anniversary Collection. This compilation includes twelve classic Street Fighter games spanning the iconic series' arcade history.</desc>
@@ -4536,21 +4382,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<publisher>PQube Limited</publisher>
 		<genre>Arcade, Platformer</genre>
 		<players>1</players>
-		<lang>en, fr, de, es, it, pt, nl, ja, zh, ko</lang>
-	</game>
-	<game>
-		<path>./Super Ninja Miner.nsp</path>
-		<name>Super Ninja Miner</name>
-		<desc>Guide the Super Ninja Miner through a series of dangerous underground mines to collect treasures and defeat enemies. Use your ninja skills to jump, slide, and dodge obstacles while exploring hidden tunnels and secret rooms. With over 80 levels of challenging gameplay, Super Ninja Miner offers a fun and exciting adventure for all ages.</desc>
-		<image>./mixart/Super Ninja Miner.jpg</image>
-		<video>./snap/Super Ninja Miner.mp4</video>
-		<marquee>./wheel/Super Ninja Miner.png</marquee>
-		<rating>E</rating>
-		<releasedate>20201020T000000</releasedate>
-		<developer>Humble Sage Games</developer>
-		<publisher>Ratalaika Games S.L.</publisher>
-		<genre>Action, Platformer, Adventure</genre>
-		<players>1-2</players>
 		<lang>en, fr, de, es, it, pt, nl, ja, zh, ko</lang>
 	</game>
 	<game>
@@ -4658,21 +4489,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<genre>Action, Platformer, Arcade</genre>
 		<players>1-2</players>
 		<lang>en, fr, de, es, it, pt, nl, ja, ko, zh</lang>
-	</game>
-	<game>
-		<path>./Teenage Mutant Ninja Turtles The Cowabunga Collection.xci</path>
-		<name>Teenage Mutant Ninja Turtles: The Cowabunga Collection</name>
-		<desc>Relive the classic arcade action with the Teenage Mutant Ninja Turtles: The Cowabunga Collection. This collection features the original arcade versions of the classic Teenage Mutant Ninja Turtles games: Teenage Mutant Ninja Turtles, Turtles in Time, and The Hyperstone Heist. With up to four player co-op, you and your friends can battle your way through the streets of New York and beyond as Leonardo, Michelangelo, Donatello, and Raphael. Experience the excitement of the 90s arcade scene all over again with this nostalgic collection.</desc>
-		<image>./mixart/Teenage Mutant Ninja Turtles The Cowabunga Collection.jpg</image>
-		<video>./snap/Teenage Mutant Ninja Turtles The Cowabunga Collection.mp4</video>
-		<marquee>./wheel/Teenage Mutant Ninja Turtles The Cowabunga Collection.png</marquee>
-		<rating>E</rating>
-		<releasedate>20210907T000000</releasedate>
-		<developer>Dotemu, Tribute Games</developer>
-		<publisher>Konami</publisher>
-		<genre>Action, Arcade, Fighting</genre>
-		<players>1-4</players>
-		<lang>en, fr, de, es, it, pt, nl, ja, zh, ko</lang>
 	</game>
 	<game>
 		<path>./The Awakening of Mummies.nsp</path>
@@ -5506,22 +5322,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Gearshifters.nsp</path>
-		<name>Gearshifters</name>
-		<desc>Drive, destroy and get paid in Gearshifters! Take on dangerous delivery missions across a dystopian Europe, battling waves of enemy vehicles and massive machine bosses. Upgrade your car with offensive, defensive, cosmetic, and performance-based customizations as you expand your territory and aim to reach the mysterious Citadel.</desc>
-		<emulator>ryujinx</emulator>
-		<image>./mixart/Gearshifters.jpg</image>
-		<video>./snap/Gearshifters.mp4</video>
-		<marquee>./wheel/Gearshifters.png</marquee>
-		<rating>Teen</rating>
-		<releasedate>20210930T000000</releasedate>
-		<developer>Red Phantom Games</developer>
-		<publisher>Numskull Games</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Geometric Feel the Beats.nsp</path>
 		<name>Geometric Feel the Beats</name>
 		<desc>Experience a musical adventure in Geometric Feel the Beats! Explore an otherworldly realm filled with rhythmic challenges and vibrant visuals. Move to the beat, avoid obstacles, and unlock new music as you progress through each level. With intuitive controls, addictive gameplay, and a wide variety of tracks to choose from, Geometric Feel the Beats will keep you grooving for hours on end.</desc>
@@ -5593,21 +5393,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<developer> Pixel Bones Studio, Super PowerUp Games, SOCIEDAD LIMITADA</developer>
 		<publisher>SuperPowerUpGames</publisher>
 		<genre>Action Arcade Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Pinball Wizard.nsp</path>
-		<name>Pinball Wizard</name>
-		<desc>Ascend the castle tower. Level up your skills. Fulfill your destiny. Become the wizard you were born to be! Oh, young Apprentice! Atop the Mountain of Shadow, at the foot of the castle tower, the wisdom bestowed upon you shall come to pass. A pinball dungeon crawler awaits to test your skill! The Pinball Wizard is an arcade adventure game where the main character is propelled into action by a set of flippers, like the ball in a pinball machine. Each level of the game is a contained area inside a tower. The goal of the game is to survive and get to the top of the tower.</desc>
-		<image>./mixart/Pinball Wizard.jpg</image>
-		<video>./snap/Pinball Wizard.mp4</video>
-		<marquee>./wheel/Pinball Wizard.png</marquee>
-		<rating>E</rating>
-		<releasedate>20221027T000000</releasedate>
-		<developer>Frosty Pop</developer>
-		<publisher>Frosty Pop</publisher>
-		<genre>Pinball</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>
@@ -6049,22 +5834,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<publisher>Clouded Leopard Entertainment</publisher>
 		<genre>Action</genre>
 		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Flashout 3.nsp</path>
-		<name>Flashout 3</name>
-		<desc>FLASHOUT IS BACK! Where high speed meets high stakes. Where unforgiving combat, loud electronic music and addictive boosts of adrenaline mix up to separate winners from losers.Where high speed meets high stakes. Where unforgiving combat, loud electronic music and addictive boosts of adrenaline mix up to separate winners from losers. Where gravitation is nothing more than an empty word. This is where the world of FLASHOUT 3 will take you and your ride to the absolute limits! FLASHOUT 3 offers you ultra-fast ships, loops, jumps and sudden razor-sharp turns! Test your skills on the most impressive sci-fi racing tracks and try not to fall behind! But if it happens, don't sweat! Unleash the power of rockets, guns, bombs and mines to help you level down your competition! Take part in an exciting, head-to-head fight to the finish! Witness spectacular crashes, the agony of defeat, and the sweet taste of victory! But don't blink! It can all end in a flash! SPLIT-SCREEN MODEAn option that never got old, but is missing from many games. Play the game with a friend on just one display! FLASHOUT 3 supports both horizontal and vertical split-screen mode. Choose the one that suits you best! AMAZING ELECTRONIC MUSICFLASHOUT 3 features high-beat electronic music composed especially for the game by renowned demoscene artists!AND?- A challenging campaign consisting of 10 tournaments;- Two characters to choose from, each with a unique weapon;- Different race modes, including Standard Race, Elimination Mode, Destruction Mode and more!- Eight detailed and ultra-fast AG ships!- A powerful arsenal of weapons, boosts and upgrades at your disposal!- 10 themed unique circuits in two versions - standard and reversed!- Stunning 3D graphics!- Air brakes!And more!</desc>
-		<emulator>ryujinx</emulator>
-		<image>./mixart/Flashout 3.jpg</image>
-		<video>./snap/Flashout 3.mp4</video>
-		<marquee>./wheel/Flashout 3.png</marquee>
-		<rating>Everyone</rating>
-		<releasedate>20230324T000000</releasedate>
-		<developer>Jujubee</developer>
-		<publisher>Jujubee</publisher>
-		<genre>Racing, Action, Arcade</genre>
-		<players>1-2)</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -6646,21 +6415,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Super Nintendo Entertainment System Nintendo Switch Online.xci</path>
-		<name>Super Nintendo Entertainment System Nintendo Switch Online</name>
-		<desc>Play 100+ games on your Nintendo Switch system Enjoy a curated library of more than 100 total Super NES™ and  NES™ classic games—including Super Mario Kart™, Super Metroid™, The Legend of Zelda™: A Link to the Past™, Donkey Kong™ Country™, and more—all at no extra charge. Plus, you cancompete or cooperate online with friends, share your screen, or virtually pass the controller, depending on the game.  ,Bombuzal, Breath Of Fire, Breath of Fire II, BRAWL BROTHERS, Caveman Ninja (also known as Joe Mac), Claymates, Congo's Caper, Demon's Crest, Donkey Kong Country, Donkey Kong Country 2: Diddy's Kong-Quest, Donkey Kong Country 3: Dixie Kong's Double Trouble!, DOOMSDAY WARRIOR, EarthBound™, Earthworm Jim™ 2, Fighter's History, F-ZERO™, Jelly Boy, Joe  Mac 2: Lost in the Tropics, Kirby Super Star™, Kirby's Avalanche™, Kirby's Dream Course™, Kirby's Dream Land™ 3, Magical Drop2, Mario's Super Picross, Natsume Championship Wrestling, Operation Logic Bomb, Panel de Pon, Pilotwings™, Pop'n TwinBee, Prehistorik Man, Psycho Dream, Rival Turf!, SIDE POCKET, Smash Tennis™, Spanky’s™ Quest, Star Fox™, Star Fox™ 2, Stunt Race FX™, Super Baseball Simulator 1,000, SUPER E.D.F. EARTH DEFENSE FORCE, Super Ghouls'n Ghosts™, Super Punch-Out!!™, Super Puyo Puyo 2, Super Mario All-Stars, Super Mario Kart™, Super Mario World™, Super Mario World™ 2: Yoshi's Island, Super Metroid™, Super Soccer, Super Tennis, Super Valis IV, The Ignition Factor, The Legend of Zelda™: A Link to the Past, The Peace Keepers, Tuff E Nuff, Wild Guns.</desc>
-		<image>./mixart/Super Nintendo Entertainment System Nintendo Switch Online.jpg</image>
-		<video>./snap/Super Nintendo Entertainment System Nintendo Switch Online.mp4</video>
-		<marquee>./wheel/Super Nintendo Entertainment System Nintendo Switch Online.png</marquee>
-		<rating>E</rating>
-		<releasedate>20230420THHMMSS</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Arcade</genre>
-		<players>1-2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Castle of Shikigami 2.xci</path>
 		<name>Castle of Shikigami 2</name>
 		<desc>Twenty years after the release of the arcade version, the masterpiece shooting game "Castle of Shikigami2" has descended once again with increased power! "Castle of Shikigami2" is a bullet-hell shooting game that first appeared in arcades in 2003 and was later ported to home video game consoles. Twenty years have passed since the arcade version was released, and this new version of the game features "New Entry Mode" and "Dramatic Change Mode" as well as "Arcade Mode”. The game allows players to enjoy a deep storyline while still being a shooting game. Dramatic shooting "Castle of Shikigami2" is finally here!</desc>
@@ -6999,21 +6753,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<developer>Golem Entertainment</developer>
 		<publisher>Flying Tiger Entertainment</publisher>
 		<genre>Arcade, Action, Racing</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./SIGNALIS.nsp</path>
-		<name>SIGNALIS</name>
-		<desc>A classic survival horror experience set in a dystopian retrotech future. Unravel a cosmic mystery as Elster, a technician Replika searching for her lost dreams. Searching for dreams inside of a nightmare Awaken from slumber and explore a surreal retrotech world as Elster, a technician Replika searching for her lost partner and her lost dreams. Discover terrifying secrets, challenging puzzles, and nightmarish creatures in a tense and melancholic experience of cosmic dread and classic psychological survival horror. Fatal exception SIGNALIS is set in a dystopian future where humanity has colonized the solar system, and the totalitarian regime of Eusan maintains an iron grip through aggressive surveillance and propaganda. Humanoid androids known as Replikas live among the populace, acting as workers, civil servants, and Protektors alongside the citizens they are designed to resemble.The story of SIGNALIS begins as a Replika named Elster awakens from cryostasis in a wrecked vessel. Now stranded on a cold planet, she sets out on a journey into depths unknown. Classic survival horror gameplay Experience fear and apprehension as you encounter strange horrors, carefully manage scarce resources, and seek solutions to challenging riddles. Cold and distant places Explore the dim corners of a derelict spaceship, delve into the mysterious fate of the inhabitants of a doomed facility, and seek what lies beneath. A dream about dreaming Discover an atmospheric science-fiction tale of identity, memory, and the terror of the unknown and unknowable, inspired by classic cosmic horror and the works of Stanley Kubrick, Hideaki Anno, and David Lynch. A striking vision Wander a brutalist nightmare driven by fluid 3D character animations, dynamic lights and shadows, and complex transparency effects, complemented by cinematic sci-fi anime storytelling.</desc>
-		<image>./mixart/SIGNALIS.jpg</image>
-		<video>./snap/SIGNALIS.mp4</video>
-		<marquee>./wheel/SIGNALIS.png</marquee>
-		<rating>Mature</rating>
-		<releasedate>20221027T000000</releasedate>
-		<developer>Humble Games</developer>
-		<publisher>Humble Games</publisher>
-		<genre>Action, Adventure</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>
@@ -7426,21 +7165,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Go_Rally.nsp</path>
-		<name>Go Rally</name>
-		<desc>A racing game where you must navigate challenging terrain and beat the competition.</desc>
-		<image>./mixart/Go_Rally.jpg</image>
-		<video>./snap/Go_Rally.mp4</video>
-		<marquee>./wheel/Go_Rally.png</marquee>
-		<rating>Everyone</rating>
-		<releasedate>20220131T120000</releasedate>
-		<developer>Black River Studios</developer>
-		<publisher>Black River Studios</publisher>
-		<genre>Racing</genre>
-		<players>4</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Air Hockey Arcade Casual Board Game.nsp</path>
 		<name>Air Hockey Arcade Casual Board Game</name>
 		<desc>Challenge both AI and your friends in this classic arcade sports board game. Protect your own goal and shoot the puck into the opponent's goal while showing incredible skills of dexterity and accuracy. Customize the look of the game with a huge selection of customization options.</desc>
@@ -7543,22 +7267,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<publisher>No Gravity Games</publisher>
 		<genre>	Action, Platform</genre>
 		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./METAL NINJA.nsp</path>
-		<name>METAL NINJA</name>
-		<desc>An action-packed game where you play as a ninja fighting against a robotic army to save the world.</desc>
-		<emulator>ryujinx</emulator>
-		<image>./mixart/METAL NINJA.jpg</image>
-		<video>./snap/METAL NINJA.mp4</video>
-		<marquee>./wheel/METAL NINJA.png</marquee>
-		<rating>T</rating>
-		<releasedate>20201201T120000</releasedate>
-		<developer>Digifloyd</developer>
-		<publisher>Digifloyd</publisher>
-		<genre>Action, Adventure</genre>
-		<players>2</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -10472,6 +10180,300 @@ Team up with friends and combine your skills to battle your way through waves of
 		<genre>Action, Shooter</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super Ninja Miner.nsp</path>
+		<name>Super Ninja Miner</name>
+		<desc>Guide the Super Ninja Miner through a series of dangerous underground mines to collect treasures and defeat enemies. Use your ninja skills to jump, slide, and dodge obstacles while exploring hidden tunnels and secret rooms. With over 80 levels of challenging gameplay, Super Ninja Miner offers a fun and exciting adventure for all ages.</desc>
+		<image>./mixart/Super Ninja Miner.jpg</image>
+		<video>./snap/Super Ninja Miner.mp4</video>
+		<marquee>./wheel/Super Ninja Miner.png</marquee>
+		<rating>E</rating>
+		<releasedate>20201020T000000</releasedate>
+		<developer>Humble Sage Games</developer>
+		<publisher>Ratalaika Games S.L.</publisher>
+		<genre>Action, Platformer, Adventure</genre>
+		<players>2</players>
+		<lang>en, fr, de, es, it, pt, nl, ja, zh, ko</lang>
+	</game>
+	<game>
+		<path>./Super Nintendo Entertainment System Nintendo Switch Online.xci</path>
+		<name>Super Nintendo Entertainment System Nintendo Switch Online</name>
+		<desc>Play 100+ games on your Nintendo Switch system Enjoy a curated library of more than 100 total Super NES™ and  NES™ classic games—including Super Mario Kart™, Super Metroid™, The Legend of Zelda™: A Link to the Past™, Donkey Kong™ Country™, and more—all at no extra charge. Plus, you cancompete or cooperate online with friends, share your screen, or virtually pass the controller, depending on the game.  ,Bombuzal, Breath Of Fire, Breath of Fire II, BRAWL BROTHERS, Caveman Ninja (also known as Joe Mac), Claymates, Congo's Caper, Demon's Crest, Donkey Kong Country, Donkey Kong Country 2: Diddy's Kong-Quest, Donkey Kong Country 3: Dixie Kong's Double Trouble!, DOOMSDAY WARRIOR, EarthBound™, Earthworm Jim™ 2, Fighter's History, F-ZERO™, Jelly Boy, Joe  Mac 2: Lost in the Tropics, Kirby Super Star™, Kirby's Avalanche™, Kirby's Dream Course™, Kirby's Dream Land™ 3, Magical Drop2, Mario's Super Picross, Natsume Championship Wrestling, Operation Logic Bomb, Panel de Pon, Pilotwings™, Pop'n TwinBee, Prehistorik Man, Psycho Dream, Rival Turf!, SIDE POCKET, Smash Tennis™, Spanky’s™ Quest, Star Fox™, Star Fox™ 2, Stunt Race FX™, Super Baseball Simulator 1,000, SUPER E.D.F. EARTH DEFENSE FORCE, Super Ghouls'n Ghosts™, Super Punch-Out!!™, Super Puyo Puyo 2, Super Mario All-Stars, Super Mario Kart™, Super Mario World™, Super Mario World™ 2: Yoshi's Island, Super Metroid™, Super Soccer, Super Tennis, Super Valis IV, The Ignition Factor, The Legend of Zelda™: A Link to the Past, The Peace Keepers, Tuff E Nuff, Wild Guns.</desc>
+		<image>./mixart/Super Nintendo Entertainment System Nintendo Switch Online.jpg</image>
+		<video>./snap/Super Nintendo Entertainment System Nintendo Switch Online.mp4</video>
+		<marquee>./wheel/Super Nintendo Entertainment System Nintendo Switch Online.png</marquee>
+		<rating>E</rating>
+		<releasedate>20230420THHMMSS</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Arcade</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pinball Jam.nsp</path>
+		<name>Pinball Jam</name>
+		<desc>Experience the excitement of classic pinball games with a variety of unique tables and challenges in this arcade-style game.</desc>
+		<image>./mixart/Pinball Jam.jpg</image>
+		<video>./snap/Pinball Jam.mp4</video>
+		<marquee>./wheel/Pinball Jam.png</marquee>
+		<rating>E</rating>
+		<releasedate>20220210T12:00:00</releasedate>
+		<developer>Casual Bit Games</developer>
+		<publisher>Flying Tiger Entertainment</publisher>
+		<genre>Arcade</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pinball Wizard.nsp</path>
+		<name>Pinball Wizard</name>
+		<desc>Ascend the castle tower. Level up your skills. Fulfill your destiny. Become the wizard you were born to be! Oh, young Apprentice! Atop the Mountain of Shadow, at the foot of the castle tower, the wisdom bestowed upon you shall come to pass. A pinball dungeon crawler awaits to test your skill! The Pinball Wizard is an arcade adventure game where the main character is propelled into action by a set of flippers, like the ball in a pinball machine. Each level of the game is a contained area inside a tower. The goal of the game is to survive and get to the top of the tower.</desc>
+		<image>./mixart/Pinball Wizard.jpg</image>
+		<video>./snap/Pinball Wizard.mp4</video>
+		<marquee>./wheel/Pinball Wizard.png</marquee>
+		<rating>E</rating>
+		<releasedate>20221027T000000</releasedate>
+		<developer>Frosty Pop</developer>
+		<publisher>Frosty Pop</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Go_Rally.nsp</path>
+		<name>Go Rally</name>
+		<desc>A racing game where you must navigate challenging terrain and beat the competition.</desc>
+		<image>./mixart/Go_Rally.jpg</image>
+		<video>./snap/Go_Rally.mp4</video>
+		<marquee>./wheel/Go_Rally.png</marquee>
+		<rating>Everyone</rating>
+		<releasedate>20220131T120000</releasedate>
+		<developer>Black River Studios</developer>
+		<publisher>Black River Studios</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Game Boy Nintendo Switch Online.nsp</path>
+		<name>Game Boy Nintendo Switch Online</name>
+		<desc>A collection of classic Game Boy titles available to play through Nintendo Switch Online service, featuring iconic games like Super Mario Land, Kirby's Dream Land, and The Legend of Zelda: Link's Awakening, with online play and save data backup.</desc>
+		<image>./mixart/Game Boy Nintendo Switch Online.jpg</image>
+		<video>./snap/Game Boy Nintendo Switch Online.mp4</video>
+		<marquee>./wheel/Game Boy Nintendo Switch Online.png</marquee>
+		<rating>Everyone</rating>
+		<releasedate>20230201T120000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Compilation</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles The Cowabunga Collection.xci</path>
+		<name>Teenage Mutant Ninja Turtles: The Cowabunga Collection</name>
+		<desc>Relive the classic arcade action with the Teenage Mutant Ninja Turtles: The Cowabunga Collection. This collection features the original arcade versions of the classic Teenage Mutant Ninja Turtles games: Teenage Mutant Ninja Turtles, Turtles in Time, and The Hyperstone Heist. With up to four player co-op, you and your friends can battle your way through the streets of New York and beyond as Leonardo, Michelangelo, Donatello, and Raphael. Experience the excitement of the 90s arcade scene all over again with this nostalgic collection.</desc>
+		<image>./mixart/Teenage Mutant Ninja Turtles The Cowabunga Collection.jpg</image>
+		<video>./snap/Teenage Mutant Ninja Turtles The Cowabunga Collection.mp4</video>
+		<marquee>./wheel/Teenage Mutant Ninja Turtles The Cowabunga Collection.png</marquee>
+		<rating>E</rating>
+		<releasedate>20210907T000000</releasedate>
+		<developer>Dotemu, Tribute Games</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Arcade, Fighting</genre>
+		<players>4</players>
+		<lang>en, fr, de, es, it, pt, nl, ja, zh, ko</lang>
+	</game>
+	<game>
+		<path>./FIFA 23 Legacy Edition.xci</path>
+		<name>FIFA 23 Legacy Edition</name>
+		<desc>The latest installment of the popular FIFA soccer franchise, featuring updated rosters and kits from the 2022-2023 season, as well as new gameplay features and modes.</desc>
+		<emulator>ryujinx</emulator>
+		<image>./mixart/FIFA 23 Legacy Edition.jpg</image>
+		<video>./snap/FIFA 23 Legacy Edition.mp4</video>
+		<marquee>./wheel/FIFA 23 Legacy Edition.png</marquee>
+		<rating>Everyone</rating>
+		<releasedate>20220929T120000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./FRAMED COLLECTION.nsp</path>
+		<name>FRAMED COLLECTION</name>
+		<desc>A unique puzzle game where players rearrange comic book panels to change the outcome of a noir-inspired story, featuring a collection of the award-winning titles FRAMED and FRAMED 2.</desc>
+		<emulator>ryujinx</emulator>
+		<image>./mixart/FRAMED COLLECTION.jpg</image>
+		<video>./snap/FRAMED COLLECTION.mp4</video>
+		<marquee>./wheel/FRAMED COLLECTION.png</marquee>
+		<rating>Everyone</rating>
+		<releasedate>20180517T120000</releasedate>
+		<developer>Loveshack Entertainment</developer>
+		<publisher>Surprise Attack Games</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Gearshifters.nsp</path>
+		<name>Gearshifters</name>
+		<desc>Drive, destroy and get paid in Gearshifters! Take on dangerous delivery missions across a dystopian Europe, battling waves of enemy vehicles and massive machine bosses. Upgrade your car with offensive, defensive, cosmetic, and performance-based customizations as you expand your territory and aim to reach the mysterious Citadel.</desc>
+		<emulator>ryujinx</emulator>
+		<image>./mixart/Gearshifters.jpg</image>
+		<video>./snap/Gearshifters.mp4</video>
+		<marquee>./wheel/Gearshifters.png</marquee>
+		<rating>Teen</rating>
+		<releasedate>20210930T000000</releasedate>
+		<developer>Red Phantom Games</developer>
+		<publisher>Numskull Games</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Johnny_Turbos_Arcade_Wizard_Fire.nsp</path>
+		<name>Johnny Turbo's Arcade: Wizard Fire</name>
+		<desc>A fantasy-themed top-down shooter where players control a wizard to defeat enemies and bosses</desc>
+		<image>./mixart/Johnny_Turbos_Arcade_Wizard_Fire.jpg</image>
+		<video>./snap/Johnny_Turbos_Arcade_Wizard_Fire.mp4</video>
+		<marquee>./wheel/Johnny_Turbos_Arcade_Wizard_Fire.png</marquee>
+		<rating>Teen</rating>
+		<releasedate>20220101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Flying Tiger Entertainment</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Marble It Up!.nsp</path>
+		<name>Marble It Up!</name>
+		<desc>Marble It Up! is a physics-based platformer game where players control a marble through over 40 levels, avoiding hazards and collecting gems.</desc>
+		<image>./mixart/Marble It Up!.jpg</image>
+		<video>./snap/Marble It Up!.mp4</video>
+		<marquee>./wheel/Marble It Up!.png</marquee>
+		<rating>Everyone</rating>
+		<releasedate>20180929T000000</releasedate>
+		<developer>Marble It Up, LLC</developer>
+		<publisher>The Marble Collective</publisher>
+		<genre>Platformer</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mario + Rabbids Sparks of Hope.xci</path>
+		<name>Mario + Rabbids Sparks of Hope</name>
+		<desc>Mario + Rabbids Sparks of Hope is a turn-based tactical role-playing video game developed by Ubisoft and published by Nintendo. It is the sequel to the 2017 game Mario + Rabbids Kingdom Battle and features a crossover between Nintendo's Mario franchise and Ubisoft's Raving Rabbids franchise.</desc>
+		<emulator>ryujinx</emulator>
+		<image>./mixart/Mario + Rabbids Sparks of Hope.jpg</image>
+		<video>./snap/Mario + Rabbids Sparks of Hope.mp4</video>
+		<marquee>./wheel/Mario + Rabbids Sparks of Hope.png</marquee>
+		<rating>Everyone</rating>
+		<releasedate>2022</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Tactical Role-Playing</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./METAL NINJA.nsp</path>
+		<name>METAL NINJA</name>
+		<desc>An action-packed game where you play as a ninja fighting against a robotic army to save the world.</desc>
+		<emulator>ryujinx</emulator>
+		<image>./mixart/METAL NINJA.jpg</image>
+		<video>./snap/METAL NINJA.mp4</video>
+		<marquee>./wheel/METAL NINJA.png</marquee>
+		<rating>T</rating>
+		<releasedate>20201201T120000</releasedate>
+		<developer>Digifloyd</developer>
+		<publisher>Digifloyd</publisher>
+		<genre>Action, Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mighty Goose.nsp</path>
+		<name>Mighty Goose</name>
+		<desc>An action-packed run-and-gun game where you play as a bounty hunter trying to take down space pirates.</desc>
+		<emulator>ryujinx</emulator>
+		<image>./mixart/Mighty Goose.jpg</image>
+		<video>./snap/Mighty Goose.mp4</video>
+		<marquee>./wheel/Mighty Goose.png</marquee>
+		<rating>E</rating>
+		<releasedate>20210605T120000</releasedate>
+		<developer>Blastmode</developer>
+		<publisher>PLAYISM</publisher>
+		<genre>Action, Run-and-Gun</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Raging Justice.nsp</path>
+		<name>Raging Justice</name>
+		<desc>Raging Justice is a side-scrolling beat 'em up video game developed and published by MakinGames. The game follows police officers Rick Justice and Nikki Rage as they fight their way through a crime-infested city to rescue the mayor from a ruthless gang. Featuring hand-drawn graphics and intense action, Raging Justice is a nostalgic throwback to classic arcade beat 'em ups.</desc>
+		<image>./mixart/Raging Justice.jpg</image>
+		<video>./snap/Raging Justice.mp4</video>
+		<marquee>./wheel/Raging Justice.png</marquee>
+		<rating>Teen</rating>
+		<releasedate>20180508T000000</releasedate>
+		<developer>MakinGames</developer>
+		<publisher>Team17</publisher>
+		<genre>Action, Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Steel Assault.nsp</path>
+		<name>Steel Assault</name>
+		<desc>Steel Assault is a 2D action-platformer set in a post-apocalyptic America. Play as Taro Takahashi, a resistance soldier on a mission to take down the evil dictator who rules with an iron fist.</desc>
+		<emulator>ryujinx</emulator>
+		<image>./mixart/Steel Assault.jpg</image>
+		<video>./snap/Steel Assault.mp4</video>
+		<marquee>./wheel/Steel Assault.png</marquee>
+		<rating>T</rating>
+		<releasedate>20210928T000000</releasedate>
+		<developer>Stingbot Games</developer>
+		<publisher>Shinyuden</publisher>
+		<genre>Action, Platformer</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SIGNALIS.nsp</path>
+		<name>SIGNALIS</name>
+		<desc>A classic survival horror experience set in a dystopian retrotech future. Unravel a cosmic mystery as Elster, a technician Replika searching for her lost dreams. Searching for dreams inside of a nightmare Awaken from slumber and explore a surreal retrotech world as Elster, a technician Replika searching for her lost partner and her lost dreams. Discover terrifying secrets, challenging puzzles, and nightmarish creatures in a tense and melancholic experience of cosmic dread and classic psychological survival horror. Fatal exception SIGNALIS is set in a dystopian future where humanity has colonized the solar system, and the totalitarian regime of Eusan maintains an iron grip through aggressive surveillance and propaganda. Humanoid androids known as Replikas live among the populace, acting as workers, civil servants, and Protektors alongside the citizens they are designed to resemble.The story of SIGNALIS begins as a Replika named Elster awakens from cryostasis in a wrecked vessel. Now stranded on a cold planet, she sets out on a journey into depths unknown. Classic survival horror gameplay Experience fear and apprehension as you encounter strange horrors, carefully manage scarce resources, and seek solutions to challenging riddles. Cold and distant places Explore the dim corners of a derelict spaceship, delve into the mysterious fate of the inhabitants of a doomed facility, and seek what lies beneath. A dream about dreaming Discover an atmospheric science-fiction tale of identity, memory, and the terror of the unknown and unknowable, inspired by classic cosmic horror and the works of Stanley Kubrick, Hideaki Anno, and David Lynch. A striking vision Wander a brutalist nightmare driven by fluid 3D character animations, dynamic lights and shadows, and complex transparency effects, complemented by cinematic sci-fi anime storytelling.</desc>
+		<emulator>ryujinx</emulator>
+		<image>./mixart/SIGNALIS.jpg</image>
+		<video>./snap/SIGNALIS.mp4</video>
+		<marquee>./wheel/SIGNALIS.png</marquee>
+		<rating>Mature</rating>
+		<releasedate>20221027T000000</releasedate>
+		<developer>Humble Games</developer>
+		<publisher>Humble Games</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Flashout 3.nsp</path>
+		<name>Flashout 3</name>
+		<desc>FLASHOUT IS BACK! Where high speed meets high stakes. Where unforgiving combat, loud electronic music and addictive boosts of adrenaline mix up to separate winners from losers.Where high speed meets high stakes. Where unforgiving combat, loud electronic music and addictive boosts of adrenaline mix up to separate winners from losers. Where gravitation is nothing more than an empty word. This is where the world of FLASHOUT 3 will take you and your ride to the absolute limits! FLASHOUT 3 offers you ultra-fast ships, loops, jumps and sudden razor-sharp turns! Test your skills on the most impressive sci-fi racing tracks and try not to fall behind! But if it happens, don't sweat! Unleash the power of rockets, guns, bombs and mines to help you level down your competition! Take part in an exciting, head-to-head fight to the finish! Witness spectacular crashes, the agony of defeat, and the sweet taste of victory! But don't blink! It can all end in a flash! SPLIT-SCREEN MODEAn option that never got old, but is missing from many games. Play the game with a friend on just one display! FLASHOUT 3 supports both horizontal and vertical split-screen mode. Choose the one that suits you best! AMAZING ELECTRONIC MUSICFLASHOUT 3 features high-beat electronic music composed especially for the game by renowned demoscene artists!AND?- A challenging campaign consisting of 10 tournaments;- Two characters to choose from, each with a unique weapon;- Different race modes, including Standard Race, Elimination Mode, Destruction Mode and more!- Eight detailed and ultra-fast AG ships!- A powerful arsenal of weapons, boosts and upgrades at your disposal!- 10 themed unique circuits in two versions - standard and reversed!- Stunning 3D graphics!- Air brakes!And more!</desc>
+		<emulator>ryujinx</emulator>
+		<image>./mixart/Flashout 3.jpg</image>
+		<video>./snap/Flashout 3.mp4</video>
+		<marquee>./wheel/Flashout 3.png</marquee>
+		<rating>Everyone</rating>
+		<releasedate>20230324T000000</releasedate>
+		<developer>Jujubee</developer>
+		<publisher>Jujubee</publisher>
+		<genre>Racing, Action, Arcade</genre>
+		<players>2)</players>
 		<lang>en</lang>
 	</game>
 </gameList>
